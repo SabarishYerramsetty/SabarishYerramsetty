@@ -4,7 +4,7 @@
 **Targeting:** SOC Analyst | Incident Response | Threat Intelligence | IAM | GRC | Risk  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sai-naga-sabarish-yerramsetty-617013210)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](sabarish.itsfolio.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://sabarish.itsfolio.tech)
 [![Medium](https://img.shields.io/badge/Medium-Blog-black)](https://medium.com/@ysabarish369)
 
 ---
