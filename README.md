@@ -3,7 +3,7 @@
 **M.S. Cybersecurity | University of Central Missouri | OPT: July 2026**  
 **Targeting:** SOC Analyst | Incident Response | Threat Intelligence | IAM | GRC | Risk  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sai-naga-sabarish-yerramsetty-617013210)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sabarishy/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://sabarish.itsfolio.tech)
 [![Medium](https://img.shields.io/badge/Medium-Blog-black)](https://medium.com/@ysabarish369)
 
@@ -11,7 +11,7 @@
 
 ## What I Do
 
-I investigate phishing campaigns, trace malicious infrastructure, write IOC reports, and document everything the way a real SOC team would. Every project in this repo comes with full write-ups, screenshots, and investigation reports because showing the process matters more than just listing the tools.
+I investigate phishing campaigns, trace malicious infrastructure, write IOC reports, build incident response playbooks, and document everything the way a real SOC team would. Every project in this repo comes with full write-ups, screenshots, and investigation reports because showing the process matters more than just listing the tools.
 
 I have worked as a Security Analyst at UCM monitoring SIEM and EDR tools across 10+ university systems, leading incident response from detection through recovery, and delivering risk reports to senior IT leadership. Before that I built IBM QRadar correlation rules and wrote CVSS-scored forensic reports at SmartInternz.
 
@@ -59,6 +59,32 @@ Captured live network traffic between virtual machines, analyzed PCAP files for 
 
 ---
 
+### SOC Incident Response Playbooks
+**Type:** Incident Response Documentation  
+**MITRE ATT&CK:** T1566.001, T1110  
+Two standardized incident response playbooks built from real investigations. Phishing Email Response Playbook covers six phases from identification through documentation. Brute Force Attack Response Playbook covers detection through recovery including lateral movement checks. Both include SIEM detection rules and escalation criteria.  
+[View Playbooks](https://github.com/SabarishYerramsetty/cybersecurity-projects/tree/main/SOC-Playbooks)
+
+---
+
+### Disaster Recovery and Business Continuity Plan
+**Type:** GRC Documentation  
+**Course:** CYBER 5050 - Disaster Recovery and Business Continuity, UCM  
+**Frameworks:** NIST SP 800-34, HIPAA, ISO 22301  
+Full DR/BCP for a healthcare IT environment covering five critical systems: EHR, PACS, CPOE, LIMS, and Telemedicine. MITRE ATT&CK mapped threats for each system. RTO, RPO, and MTD defined across 10 systems. Hybrid AWS and on-premises backup strategy with restoration priority order based on patient safety impact.  
+[View Project](https://github.com/SabarishYerramsetty/cybersecurity-projects/tree/main/DR-BCP-Healthcare-IT)
+
+---
+
+### Security Policies and Standards
+**Type:** GRC Documentation  
+**Course:** CYBR 5720 - Cyber Security Policies and Risk Management, UCM  
+**Frameworks:** NIST CSF 2.0, ISO 27001, CIS Controls, NIST SP 800-88, NIST SP 800-92  
+Six enterprise-grade governance documents covering acceptable use, asset management, logging requirements, and information disposal. Each document followed a three-round peer review process before final approval. Logging procedure includes step by step rsyslog configuration for forwarding logs to a centralized SIEM.  
+[View Project](https://github.com/SabarishYerramsetty/cybersecurity-projects/tree/main/Security-Policies-and-Standards)
+
+---
+
 ## Skills
 
 | Category | Tools and Techniques |
@@ -67,8 +93,10 @@ Captured live network traffic between virtual machines, analyzed PCAP files for 
 | Threat Intelligence | ThreatFox, Shodan, URLScan, AbuseIPDB, VirusTotal, WHOIS |
 | Email Forensics | MXToolbox, SPF, DKIM, DMARC Analysis, Header Analysis |
 | Network Analysis | Wireshark, PCAP Analysis, Traffic Filtering |
-| Frameworks | MITRE ATT&CK, STIX 2.1, NIST CSF, SANS Incident Handling |
+| Incident Response | Playbook Development, Detection Engineering, SIEM Rule Writing |
+| Frameworks | MITRE ATT&CK, STIX 2.1, NIST CSF 2.0, NIST SP 800-34, ISO 27001, HIPAA |
 | Endpoint Security | Windows Defender, EDR Monitoring, Event ID Analysis |
+| GRC | Policy Writing, DR/BCP, Risk Assessment, BIA, Compliance Documentation |
 | Scripting | Python, PowerShell, Bash |
 | Cloud | AWS IAM, AWS Cloud Practitioner |
 | Reporting | IOC Reports, Risk Documentation, Executive Briefings |
@@ -85,10 +113,11 @@ Captured live network traffic between virtual machines, analyzed PCAP files for 
 
 ## Currently Working On
 
-- Home Network Threat Hunt using Wireshark
-- DNS Threat Hunting
+- SIEM Alert Investigation
+- MITRE ATT&CK Mapping Project
+- Splunk Detection Dashboard
 - Failed Login Correlation Hunt
-- Building out SOC detection playbooks
+- AI Assisted Alert Triage Lab
 
 ---
 
@@ -98,8 +127,8 @@ I am actively looking for SOC Analyst, Incident Response, Threat Intelligence, I
 
 If you are hiring or want to collaborate on security research, reach out on LinkedIn or check out my portfolio.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai%20Naga%20Sabarish-blue)](https://www.linkedin.com/in/sai-naga-sabarish-yerramsetty-617013210)
-[![Portfolio](https://img.shields.io/badge/Portfolio-sabarish--portfolio-green)](https://sabarish-portfolio-9f7a.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai%20Naga%20Sabarish-blue)](https://www.linkedin.com/in/sabarishy/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sabarish--portfolio-green)](https://sabarish.itsfolio.tech)
 
 ---
 
