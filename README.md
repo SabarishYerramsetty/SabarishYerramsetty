@@ -1,6 +1,6 @@
 # Cybersecurity analyst who investigates real threats, not just lab simulations.
 
-**M.S. Cybersecurity | University of Central Missouri | OPT: July 2026**  
+**M.S. Cybersecurity | University of Central Missouri **  
 **Targeting:** SOC Analyst | Incident Response | Threat Intelligence | IAM | GRC | Risk  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sabarishy/)
